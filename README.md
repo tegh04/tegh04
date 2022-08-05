@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tegh Bir Singh, and am doing B Engineering(Flexible), B Science(Math) from UTS 
-- I’m a 4th year student interested in data science.
+- I’m final year student interested in data science.
+- In case you have any questions regarding my projects or want to contact me my email is down below
 - Email: tegh.b.singh@student.uts.edu.au
 
 <!---
